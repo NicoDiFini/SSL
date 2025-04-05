@@ -34,7 +34,6 @@ NicoDiFini/
     ├── 00-Hello/                
     │   ├── .gitignore
     │   ├── README.md            
-    │   ├── Makefile
     │   ├── hello.cpp
     │   └── output.txt
     └── 01-Futuro-trabajo/         
